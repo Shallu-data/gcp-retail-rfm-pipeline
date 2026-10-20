@@ -54,5 +54,5 @@ docs/   dashboard screenshots
 ```
 
 ## Dashboard
-![Segments page](docs/segments.png)
-![Sales trends page](docs/sales_trends.png)
+![Segments page](segments.png)
+![Sales trends page](sales_trends.png)
